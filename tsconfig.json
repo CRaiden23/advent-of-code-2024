@@ -1,0 +1,18 @@
+{
+	"compilerOptions": {
+		"strict": true,
+		"module": "esnext",
+		"moduleResolution": "node",
+		"esModuleInterop": true,
+		"target": "es2017",
+		"sourceMap": false,
+		"inlineSourceMap": true,
+		"sourceRoot": "src",
+		"outDir": "./dist",
+		"declaration": false,
+		"removeComments": false,
+		"alwaysStrict": true,
+		"allowSyntheticDefaultImports": true,
+		"pretty": true
+	}
+}
